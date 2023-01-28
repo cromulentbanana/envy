@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/fernferret/envy"
+	"github.com/cromulentbanana/envy"
 	"github.com/spf13/pflag"
 	"github.com/stretchr/testify/assert"
 )

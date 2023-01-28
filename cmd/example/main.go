@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/fernferret/envy"
+	"github.com/cromulentbanana/envy"
 	"github.com/spf13/pflag"
 )
 

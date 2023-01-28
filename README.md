@@ -5,7 +5,7 @@ Automatically load flags as environment variables with pflag!
 ## Install
 
 ```console
-go install github.com/fernferret/envy
+go get github.com/cromulentbanana/envy
 ```
 
 ## About
@@ -44,7 +44,7 @@ package main
 import (
     "fmt"
 
-    "github.com/fernferret/envy"
+    "github.com/cromulentbanana/envy"
     "github.com/spf13/pflag"
 )
 

@@ -1,4 +1,4 @@
-module github.com/fernferret/envy
+module github.com/cromulentbanana/envy
 
 go 1.17
 
